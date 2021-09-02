@@ -4,5 +4,5 @@ This repository aims to provide TensorFlow code for deep learning practice of [A
 ## Table of Contents
 1. Basics of Neural Network programming
 
-    > 1-1. Load and preprocessing images using TensorFlow
+    > 1-1. Load and preprocessing images using TensorFlow ([Notebook](Image_processing.ipynb))
 3.

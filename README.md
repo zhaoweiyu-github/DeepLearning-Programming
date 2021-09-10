@@ -4,7 +4,7 @@ This repository aims to provide PyTorch code for deep learning practice of [Andr
 ## Table of Contents
 1. Basics of Neural Network programming
 
-    > 1-1. Basics of PyTorch tensors ([Notebook](Notebook/Basic_pyTorch.ipynb))
+    > 1-1. Basics of PyTorch tensors ([Notebook](Notebook/Basic_PyTorch.ipynb))
     >
-    > 1-2. Load and preprocessing images using TensorFlow ([Notebook](Notebook/Image_processing.ipynb))
-    > 
+    > 1-2. Load and preprocessing images using TensorFlow ([Notebook](Notebook/Image_processing_TensorFlow.ipynb))
+

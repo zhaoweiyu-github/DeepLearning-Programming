@@ -9,4 +9,6 @@ This repository aims to provide PyTorch code for deep learning practice of [Andr
     > 1-2. Load and preprocessing images using TensorFlow ([Notebook](Notebook/Image_processing_TensorFlow.ipynb))
     >
     > 1-3. Load and preprocessing image using PyTorch ([Notebook](Notebook/Imaging_processing_PyTorch.ipynb))
+    >
+    > 1-4. Self-defined data loader using PyTorch ([Notebook](Notebook/Data_generator_PyTorch.ipynb))
 

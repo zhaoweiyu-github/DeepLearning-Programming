@@ -11,4 +11,8 @@ This repository aims to provide PyTorch code for deep learning practice of [Andr
     > 1-3. Load and preprocessing image using PyTorch ([Notebook](Notebook/Imaging_processing_PyTorch.ipynb))
     >
     > 1-4. Self-defined data loader using PyTorch ([Notebook](Notebook/Data_generator_PyTorch.ipynb))
+    >
+    > 1-5. Implementation of logistic regression ([Notebook](Notebook/LogisticRegression_PyTorch.ipynb))
+    >
+    > 1-6. Implementation of shallow neural network ([Notebook](Notebook/ShallowNeuralNetwork.ipynb))
 

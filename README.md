@@ -15,4 +15,6 @@ This repository aims to provide PyTorch code for deep learning practice of [Andr
     > 1-5. Implementation of logistic regression ([Notebook](Notebook/LogisticRegression_PyTorch.ipynb))
     >
     > 1-6. Implementation of shallow neural network ([Notebook](Notebook/ShallowNeuralNetwork.ipynb))
+    >
+    > 1-7. Regularization (L2 penalty and Dropout) ([Notebook](Notebook/Regularization_PyTorch.ipynb))
 
